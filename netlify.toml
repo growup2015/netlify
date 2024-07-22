@@ -1,5 +1,5 @@
 [build]
-  publish = "Build"
+  publish = ""
   command = "echo 'No build command needed'"
 
 [[redirects]]
